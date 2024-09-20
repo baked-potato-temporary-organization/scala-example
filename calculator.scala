@@ -20,5 +20,5 @@
     // implement your calculator's logic here
   }
 
-  println(42)
+  println(acc)
 }
